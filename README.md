@@ -50,7 +50,7 @@ Make sure you have the following installed:
 4. **Set up the database:**
 
     - Create a PostgreSQL database.
-    - Update the database configuration in `backend/index.js` with your database credentials.
+    - Update the database configuration in `Server/index.js` with your database credentials.
 
 5. **Run the backend server:**
 
